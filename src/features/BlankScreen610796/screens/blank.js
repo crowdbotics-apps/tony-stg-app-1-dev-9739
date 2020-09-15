@@ -215,9 +215,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           textAlign: "left",
-          fontFamily: "System",
-          fontWeight: "normal",
-          fontStyle: "normal"
+          fontFamily: "Roboto-Regular"
         }}
         style={{
           width: "100%",
@@ -233,7 +231,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           backgroundColor: "#ffffff",
-          fontFamily: "System-Regular",
+          fontFamily: "Roboto-Regular",
           borderColor: "#000000",
           borderStyle: "solid",
           borderWidth: 0,
@@ -260,9 +258,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           textAlign: "left",
-          fontFamily: "System",
-          fontWeight: "normal",
-          fontStyle: "normal"
+          fontFamily: "Montserrat-Regular"
         }}
         style={{
           width: "100%",
@@ -278,7 +274,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           backgroundColor: "#ffffff",
-          fontFamily: "System-Regular",
+          fontFamily: "Montserrat-Regular",
           borderColor: "#000000",
           borderStyle: "solid",
           borderWidth: 0,
@@ -340,9 +336,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           textAlign: "left",
-          fontFamily: "System",
-          fontWeight: "normal",
-          fontStyle: "normal"
+          fontFamily: "CrimsonText-Regular"
         }}
         style={{
           width: "100%",
@@ -358,7 +352,7 @@ export class _Blank extends React.Component {
           fontSize: 12,
           color: "#000000",
           backgroundColor: "#ffffff",
-          fontFamily: "System-Regular",
+          fontFamily: "CrimsonText-Regular",
           borderColor: "#000000",
           borderStyle: "solid",
           borderWidth: 0,
