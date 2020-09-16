@@ -59,7 +59,7 @@ export class _Blank extends React.Component {
       }}
     >
       <TouchableOpacity
-        onPress={() => this.props.navigation.navigate("Blank Screen 7")}
+        onPress={() => this.props.navigation.navigate("BlankScreen710804")}
       >
         <Button
           textStyle={{
@@ -104,7 +104,7 @@ export class _Blank extends React.Component {
         </Button>
       </TouchableOpacity>
       <TouchableOpacity
-        onPress={() => this.props.navigation.navigate("Blank Screen 7")}
+        onPress={() => this.props.navigation.navigate("BlankScreen710804")}
       >
         <Text
           style={{
@@ -215,7 +215,7 @@ export class _Blank extends React.Component {
         Sample text content
       </Text>
       <TouchableOpacity
-        onPress={() => this.props.navigation.navigate("BlankScreen 710804")}
+        onPress={() => this.props.navigation.navigate("BlankScreen810805")}
       >
         <Icon
           iconFont="Eva Design Icons"
@@ -254,7 +254,7 @@ export class _Blank extends React.Component {
         />
       </TouchableOpacity>
       <TouchableOpacity
-        onPress={() => this.props.navigation.navigate("BlankScreen 710804")}
+        onPress={() => this.props.navigation.navigate("BlankScreen810805")}
       >
         <Image
           resizeMode="cover"
