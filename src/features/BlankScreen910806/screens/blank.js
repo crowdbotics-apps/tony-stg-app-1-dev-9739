@@ -214,45 +214,6 @@ export class _Blank extends React.Component {
       >
         Sample text content
       </Text>
-      <TouchableOpacity
-        onPress={() => this.props.navigation.navigate("Blank Screen 8")}
-      >
-        <Icon
-          iconFont="Eva Design Icons"
-          name="arrow-back"
-          height={20}
-          width={20}
-          style={{
-            marginLeft: 0,
-            marginRight: 0,
-            marginTop: 5,
-            marginBottom: 5,
-            paddingLeft: 5,
-            paddingRight: 5,
-            paddingTop: 5,
-            paddingBottom: 5,
-            overflow: "visible",
-            borderColor: "#000000",
-            borderStyle: "solid",
-            borderWidth: 0,
-            borderLeftWidth: 0,
-            borderRightWidth: 0,
-            borderTopWidth: 0,
-            borderBottomWidth: 0,
-            borderRadius: 0,
-            fontSize: 20,
-            color: "#000000",
-            backgroundColor: "#ffffff",
-            fontFamily: "Roboto-Regular",
-            textAlign: "left",
-            textAlignVertical: "center",
-            textDecorationLine: "none",
-            textTransform: "none",
-            lineHeight: 12,
-            letterSpacing: 0
-          }}
-        />
-      </TouchableOpacity>
       <Icon
         iconFont="Eva Design Icons"
         name="star"
