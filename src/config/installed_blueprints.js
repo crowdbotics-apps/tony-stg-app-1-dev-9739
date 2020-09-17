@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'BlankScreen1010888', human_name: 'Blank Screen 10', access_route: 'BlankScreen1010888'},
 { name: 'BlankScreen910806', human_name: 'Blank Screen 9', access_route: 'BlankScreen910806'},
 { name: 'BlankScreen810805', human_name: 'Blank Screen 8', access_route: 'BlankScreen810805'},
 { name: 'BlankScreen710804', human_name: 'Blank Screen 7', access_route: 'BlankScreen710804'},
